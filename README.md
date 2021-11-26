@@ -1,2 +1,2 @@
 # AI
-Timmethy Tran's artificial antelligence related projects
+Timmethy Tran's artificial intelligence related projects
